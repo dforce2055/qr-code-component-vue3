@@ -28,8 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/dforce2055/qr-code-component-vue3](https://github.com/dforce2055/qr-code-component-vue3)
+- Live Site URL: [https://dforce2055.github.io/qr-code-component-vue3](https://dforce2055.github.io/qr-code-component-vue3/)
 
 ## My process
 
@@ -68,6 +68,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+### Deploy on Github pages
+See [Vue clie docs](https://cli.vuejs.org/guide/deployment.html#github-pages).
 
 ## Author
 
