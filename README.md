@@ -70,6 +70,17 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 ### Deploy on Github pages
 See [Vue clie docs](https://cli.vuejs.org/guide/deployment.html#github-pages).
+1. Build app
+``$ npm run build``
+
+2. Add ignore DIST folder to git
+``$ git add dist -f``
+
+3. Commit 
+``$ git commit -m "deploy"``
+
+4. Deploy
+``$ git subtree push --prefix dist origin gh-pages``
 
 ## Author
 
