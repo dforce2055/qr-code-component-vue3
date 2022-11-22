@@ -1,7 +1,5 @@
 <template>
-  <section>
-    <QRCode />
-  </section>
+  <QRCode />
 </template>
 
 <script lang="ts">
